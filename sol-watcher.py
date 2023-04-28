@@ -8,7 +8,7 @@ telegram_bot_token = "dddddddddd"
 telegram_channel_id = "dddddddddd"
 
 # Set up Hello Moon API information
-api_key = "4cc76a3f-5514-4818-9fd1-7387d51196b6"
+api_key = "rrrrrr"
 solana_chain_id = "solana"
 min_transaction_value = 100000  # Transactions over $100k USD
 
