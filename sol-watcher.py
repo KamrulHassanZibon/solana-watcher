@@ -4,8 +4,8 @@ import time
 import os
 
 # Set up Telegram bot information
-telegram_bot_token = "<6167079188:AAHqQLFPtnlS3gqv8DQ0xApf8iaqfa0jD_I>"
-telegram_channel_id = "+Xr-q8kfBWpNkYzJl"
+telegram_bot_token = "dddddddddd"
+telegram_channel_id = "dddddddddd"
 
 # Set up Hello Moon API information
 api_key = "4cc76a3f-5514-4818-9fd1-7387d51196b6"
